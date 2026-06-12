@@ -1,0 +1,32 @@
+{
+    "Workout for Friday, Apr 4": {
+        "calories": 400,
+        "exercises": [
+            "🏋️ Bench Press",
+            "🏋️ Tricep Dips"
+        ]
+    },
+    "Workout for Monday, Apr 14": {
+        "calories": 580,
+        "exercises": [
+            "🏋️ Bench Press",
+            "🏋️ Shoulder Press",
+            "🏋️ Tricep Dips"
+        ]
+    },
+    "Workout for Tuesday, Apr 1": {
+        "calories": 900,
+        "exercises": [
+            "💪 Deadlifts",
+            "💪 Pull-ups",
+            "💪 Barbell Rows"
+        ]
+    },
+    "Workout for Tuesday, Apr 15": {
+        "calories": 600,
+        "exercises": [
+            "💪 Deadlifts",
+            "💪 Pull-ups"
+        ]
+    }
+}
